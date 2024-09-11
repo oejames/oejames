@@ -7,8 +7,7 @@
   
 </p>
 
-- 💼 Prev intern @ Warner Bros. Games and Universal Service Administrative Company
-- 💼 Research @ Geisel School of Medicine, Digital Ethnic Futures Lab, and The Media Ecology Project
+- 💼 Prev @ Warner Bros. Games, Geisel School of Medicine, Digital Ethnic Futures Lab, and The Media Ecology Project
 
 
 <h3 align="center">My Tech Stack 💻</h3> 
