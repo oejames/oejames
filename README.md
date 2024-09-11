@@ -9,7 +9,7 @@
 
 <!-- - 💼 Prev @ Warner Bros. Games, Geisel School of Medicine, Digital Ethnic Futures Lab, and The Media Ecology Project -->
 
-
+<!-- https://github.com/Ileriayo/markdown-badges -->
 <h3 align="center">My Tech Stack 💻</h3> 
 <div align="center">
  <img src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
