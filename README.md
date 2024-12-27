@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Ore 🐻 </h1>
+<h1 align="center">Hey there 🐻 </h1>
 
 <h3 align="center">Computer Science & Media Studies @ Dartmouth College 💫</h3> 
 <p align="center">
